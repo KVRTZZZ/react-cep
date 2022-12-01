@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cep/static/css/main.f04f6057.css",
+    "main.js": "/react-cep/static/js/main.d44eb059.js",
+    "index.html": "/react-cep/index.html",
+    "main.f04f6057.css.map": "/react-cep/static/css/main.f04f6057.css.map",
+    "main.d44eb059.js.map": "/react-cep/static/js/main.d44eb059.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f04f6057.css",
+    "static/js/main.d44eb059.js"
+  ]
+}
